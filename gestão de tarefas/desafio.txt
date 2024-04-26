@@ -1,0 +1,19 @@
+Desafio: Sistema de Gestão de Tarefas
+
+Objetivo:
+Desenvolver um sistema simples de gestão de tarefas em Java, que permita aos usuários adicionar, visualizar, marcar como concluída e excluir tarefas.
+
+Requisitos Funcionais:
+
+Os usuários devem poder adicionar uma nova tarefa, fornecendo um título e uma descrição.
+Os usuários devem poder visualizar todas as tarefas adicionadas, incluindo seu título, descrição e status (concluída ou não).
+Os usuários devem poder marcar uma tarefa como concluída.
+Os usuários devem poder excluir uma tarefa da lista.
+Requisitos Técnicos:
+
+Utilizar classes para modelar as tarefas e métodos para manipulá-las (adicionar, visualizar, marcar como concluída, excluir).
+Utilizar uma estrutura de dados adequada para armazenar as tarefas, como um ArrayList.
+Implementar uma interface de linha de comando (CLI) para interação com o sistema.
+Utilizar tratamento de exceções para lidar com erros, como tentativa de acessar uma tarefa que não existe.
+Desafio Extra:
+Implementar persistência de dados usando arquivos de texto, permitindo que as tarefas sejam armazenadas entre diferentes execuções do programa.
